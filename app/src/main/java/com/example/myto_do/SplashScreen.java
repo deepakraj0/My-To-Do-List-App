@@ -21,6 +21,7 @@ public class SplashScreen extends AppCompatActivity {
     Animation topAnim,bottomAnim;
     TextView textView1,textView2;
     ImageView imageView;
+    // github check
 
 
 
